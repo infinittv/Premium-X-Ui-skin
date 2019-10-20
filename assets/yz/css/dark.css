@@ -1,0 +1,97 @@
+.pcoded-navbar {
+    background: #343957 !important;
+}
+
+nav.pcoded-navbar {
+    background-color: #343957;
+}
+
+.pcoded .pcoded-navbar[navbar-theme="themelight1"] .pcoded-inner-navbar {
+    background-color: #343957;
+}
+
+.pcoded .pcoded-navbar[navbar-theme="themelight1"] .pcoded-item>li>a {
+    color: white;
+}
+
+.pcoded .pcoded-navbar[navbar-theme="themelight1"] .pcoded-item>li.pcoded-hasmenu .pcoded-submenu li.pcoded-hasmenu>a:after, .pcoded .pcoded-navbar[navbar-theme="themelight1"] .pcoded-item>li.pcoded-hasmenu>a:after {
+    color: white;
+}
+
+span.pcoded-mtext {
+    color: white;
+}
+
+.pcoded .pcoded-navbar .pcoded-navigation-label[menu-title-theme="theme9"] {
+    color: white;
+}
+.pcoded-inner-content .main-body {
+	margin-top: 0px !important;
+}
+.pcoded[theme-layout="vertical"][vertical-nav-type="collapsed"] .pcoded-navbar[navbar-theme="themelight1"] .pcoded-item>.pcoded-hasmenu.pcoded-trigger>.pcoded-submenu {
+    background: #343957;
+}
+.pcoded-inner-content {
+    background-color: #2a2e44 !important;
+}
+
+
+.logged-in {
+    background: #2a2e44 !important;
+    background-color: #2a2e44 !important;
+}
+
+nav.navbar.header-navbar.pcoded-header.iscollapsed {
+    background: #3f4d67;
+}
+
+.pcoded .pcoded-header[header-theme="themelight1"] .dropdown-toggle, .pcoded .pcoded-header[header-theme="themelight1"] .input-group-addon, .pcoded .pcoded-header[header-theme="themelight1"] .input-group-append .input-group-text, .pcoded .pcoded-header[header-theme="themelight1"] .input-group-prepend .input-group-text, .pcoded .pcoded-header[header-theme="themelight1"] a {
+    color: white;
+}
+
+.page-title-box .page-title {
+    color: white;
+}
+.card {
+    background-color: #3f4d6770;
+    border: 0 solid transparent;
+    border-radius: .25rem;
+    box-shadow: 0 0.5rem 1rem 0 #1a1f33;
+    color: white !important;
+}
+
+.table {
+    color: white;
+}
+
+
+.card-box {
+    background-color: #3f4d67;
+}
+
+.text-muted {
+    color: white !important;
+}
+
+h3.text-dark.my-1 {
+    color: white !important;
+}
+
+.dd-list .dd3-content {
+    background: #3f4d67;
+}
+
+.dd-list .dd-item .dd-handle {
+    background: #3f4d67;
+}
+
+.dd-list .dd3-content:hover {
+    color: #cff3ff;
+}
+.pcoded-mtext {
+    color: white;
+}
+
+.pcoded[theme-layout="vertical"][vertical-nav-type="collapsed"] .pcoded-navbar[navbar-theme="themelight1"] .pcoded-item>.pcoded-hasmenu.pcoded-trigger>.pcoded-submenu {
+    border-left-color: #343957;
+}
