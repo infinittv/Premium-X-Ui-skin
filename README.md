@@ -1,5 +1,4 @@
-# Premium-X-Ui-skin
+# Premium-X-Ui-skin (unofficial)
 New Look for xtream-ui
 
 
-# This theme is an unofficial release 
